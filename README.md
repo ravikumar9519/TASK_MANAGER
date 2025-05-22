@@ -1,7 +1,6 @@
 # TASK_MANAGER
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 A functional task management application built using the MERN (MongoDB, Express, React, Node.js) stack. The app allows users to manage tasks with features like user authentication (JWT & Google OAuth), task creation, task arrangement using drag-and-drop, and much more.
 
@@ -46,7 +45,7 @@ A functional task management application built using the MERN (MongoDB, Express,
 
 ## 🚀 Live Demo
 
-Check out the live deployed version [here](https://taskmanger-4sy5.onrender.com).
+Check out the live deployed version [here](https://task-manager-ravi.netlify.app/login).
 
 ## 🏁 Getting Started Locally
 
