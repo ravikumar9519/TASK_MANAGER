@@ -67,7 +67,7 @@ To get this project running on your local machine, follow these steps:
 
 2. Navigate into the project directory:
    ```bash
-   cd mern_task_manager_app
+   cd TASK_MANAGER
    ```
 
 ### Backend Setup
