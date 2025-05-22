@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "name": "task-manager",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "client": "cd client && npm install && npm run dev",
+    "server": "cd server && npm install && npm start"
+  }
+}
